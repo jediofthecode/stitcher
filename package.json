@@ -16,7 +16,7 @@
     "ejs":"",
     "optimist": "",
     "coffee-script" : "",
-    "less" : "",
-    "connect" : ""
+    "less" : "1.4.0",
+    "connect" : "2.30.0"
   }
 }
